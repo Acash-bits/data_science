@@ -1,3 +1,4 @@
+# Creating Bucketing in Bar Charts
 from matplotlib import pyplot as plt
 from collections import Counter
 
