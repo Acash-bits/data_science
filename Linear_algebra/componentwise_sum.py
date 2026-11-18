@@ -18,4 +18,4 @@ def vector_sum(vectors: List[Vector]):
     return[sum(vector[i] for vector in vectors)
            for i in range(num_elements)]
 
-# print(vector_sum([[1,3,5], [1,5,7], [3,5,6]]))
+print(vector_sum([[1,3,5], [1,5,7], [3,5,6]]))
